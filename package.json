@@ -1,0 +1,23 @@
+{
+  "name": "tea-testnet-pack",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeugo/tea-npm-package.git"
+  },
+  "keywords": [
+    "NPM",
+    "Tutorial"
+  ],
+  "author": "Yeugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeugo/tea-npm-package/issues"
+  },
+  "homepage": "https://github.com/Yeugo/tea-npm-package#readme"
+}
